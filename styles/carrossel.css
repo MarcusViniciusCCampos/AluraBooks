@@ -214,3 +214,19 @@
         gap: 1em;
     }
 }
+
+@media screen and (max-width: 390px) {
+    .descricao__texto {
+        margin-right: 1.6em;
+    }
+
+    .card {
+        margin: 1.25em 1em;
+        padding: 1em 0.5em 1.4375em 0.5em;
+    }
+
+    .card__botoes-autora {
+        margin-top: 1.4em;
+    }
+
+}
