@@ -76,3 +76,10 @@
         background-position: 8.3em;
     }
 }
+
+@media screen and (max-width: 390px) {
+    .banner__texto {
+        padding: 0 1.5em;
+    }
+
+}
