@@ -215,9 +215,9 @@
     }
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 390px) {
     .descricao__texto {
-        margin-right: 2.1em;
+        margin-right: 1.5em;
     }
 
     .card {
@@ -230,7 +230,7 @@
     }
 
     .descricao {
-        padding-right: 2em;
+        padding-right: em;
     }
 
 }
