@@ -215,9 +215,9 @@
     }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 429px) {
     .descricao__texto {
-        margin-right: 1.6em;
+        margin-right: 2.1em;
     }
 
     .card {
@@ -227,6 +227,10 @@
 
     .card__botoes-autora {
         margin-top: 1.4em;
+    }
+
+    .descricao {
+        padding-right: 2em;
     }
 
 }
